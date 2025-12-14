@@ -1,4 +1,4 @@
-# Task Expert – Full Stack Task Management Application
+# Task Manager – Full Stack Task Management Application
 
 ## About
 Task Expert is a **minimalistic, full-stack task management web application** built with **React.js** on the frontend and **Express.js + MongoDB** on the backend. It helps users manage daily tasks efficiently using a clean UI, drag-and-drop workflow, analytics, and secure authentication.
