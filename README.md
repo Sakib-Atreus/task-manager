@@ -10,8 +10,8 @@ The application supports three task stages — **Todo, Ongoing, and Completed** 
 https://taskmanager-codersquad.vercel.app
 
 ## 📦 Source Code
-- **Client-side:** https://github.com/Sakib-Atreus/task-manager/task-manager-client  
-- **Server-side:** https://github.com/Sakib-Atreus/task-manager/task-manager-server
+- **Client-side:** https://github.com/Sakib-Atreus/task-manager/tree/main/task-manager-client 
+- **Server-side:** https://github.com/Sakib-Atreus/task-manager/tree/main/task-manager-server
 
 ---
 
